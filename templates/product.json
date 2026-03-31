@@ -133,7 +133,7 @@
                 "star_color": "#ffcc00",
                 "bg_stars_style": "full",
                 "bg_star_color": "#ececec",
-                "label": "(189 Ревюта)",
+                "label": "(189 отзива)",
                 "size": 16,
                 "alignment": "flex-start",
                 "scroll_id": "",
@@ -178,7 +178,7 @@
                 "letter_spacing": 6,
                 "displayed_badge": "sale",
                 "sale_badge_color": "accent-2",
-                "custom_badge_text": "[icon_1] SPECIAL OFFER",
+                "custom_badge_text": "[icon_1] ПРОМОЦИЯ",
                 "icon_scale": 140,
                 "icon_1": "redeem",
                 "filled_icon_1": false,
@@ -201,14 +201,14 @@
                 "swatches_custom_colors_list": "#000000, #6D388B, #0000FF, #FFCC00",
                 "full_width_dropdowns": false,
                 "breaks_style": "normal",
-                "breaks_headline": "BUNDLE & SAVE",
+                "breaks_headline": "ПАКЕТНА ОТСТЪПКА",
                 "breaks_prices_layout": "price-first-vertical",
                 "breaks_display_selected_indicator": true,
                 "breaks_border_radius": 10,
                 "breaks_border_width": 2,
                 "breaks_color_scheme": "accent-1",
                 "breaks_vertical_items_align": "flex-start",
-                "breaks_badges": "[empty], Most popular, [empty]",
+                "breaks_badges": "[empty], Най-популярен, [empty]",
                 "breaks_badge_style": "1",
                 "breaks_badge_color": "accent-1",
                 "breaks_displayed_images": "variant_images",
@@ -217,11 +217,11 @@
                 "breaks_space_images": true,
                 "breaks_vertical_images_position": "top",
                 "breaks_labels": "[name], [name], [name]",
-                "breaks_benefits": "[empty], Free Shipping, Free Shipping",
+                "breaks_benefits": "[empty], Безплатна доставка, Безплатна доставка",
                 "breaks_benefit_position": "top",
                 "breaks_benefit_style": "outlined",
                 "breaks_benefit_color": "accent-1",
-                "breaks_captions": "Variant 1 caption, Variant 2 caption, Variant 3 caption",
+                "breaks_captions": "",
                 "breaks_price_texts": "[price], [price], [price]",
                 "breaks_compare_price_texts": "[compare_price], [compare_price], [compare_price]",
                 "margin_top": 15,
@@ -251,39 +251,39 @@
                 "non_selected_background_color": "#fbfbfb",
                 "non_selected_background_gradient": "linear-gradient(#ffffff, #f5f5f5)",
                 "non_selected_text_color": "#565656",
-                "non_selected_accent_color": "#a16ac0",
+                "non_selected_accent_color": "#2d5a3d",
                 "non_selected_badge_text_color": "#ffffff",
-                "non_selected_badge_bg_color": "#a16ac0",
-                "non_selected_benefit_text_color": "#a16ac0",
+                "non_selected_badge_bg_color": "#2d5a3d",
+                "non_selected_benefit_text_color": "#2d5a3d",
                 "non_selected_benefit_bg_color": "#ffffff",
-                "non_selected_benefit_border_color": "#a16ac0",
+                "non_selected_benefit_border_color": "#2d5a3d",
                 "selected_border_style": "solid",
-                "selected_border_color": "#6d388b",
+                "selected_border_color": "#2d5a3d",
                 "selected_background_type": "color",
-                "selected_background_color": "#f2eaf6",
+                "selected_background_color": "#edf5f0",
                 "selected_background_gradient": "linear-gradient(#FBF4FF, #E6D5F1)",
                 "selected_text_color": "#121212",
-                "selected_accent_color": "#6d388b",
+                "selected_accent_color": "#2d5a3d",
                 "selected_badge_text_color": "#ffffff",
-                "selected_badge_bg_color": "#6d388b",
-                "selected_benefit_text_color": "#6d388b",
+                "selected_badge_bg_color": "#2d5a3d",
+                "selected_benefit_text_color": "#2d5a3d",
                 "selected_benefit_bg_color": "#ffffff",
-                "selected_benefit_border_color": "#6d388b",
-                "upsells_primary_style_bg_color": "#6d388b",
+                "selected_benefit_border_color": "#2d5a3d",
+                "upsells_primary_style_bg_color": "#2d5a3d",
                 "upsells_primary_style_text_color": "#ffffff",
                 "upsells_primary_style_badge_bg": "#121212",
                 "upsells_primary_style_badge_text_color": "#ffffff",
                 "upsells_secondary_style_bg_color": "#e6dcf0",
                 "upsells_secondary_style_text_color": "#121212",
-                "upsells_secondary_style_badge_bg": "#6d388b",
+                "upsells_secondary_style_badge_bg": "#2d5a3d",
                 "upsells_secondary_style_badge_text_color": "#ffffff",
-                "selected_upsells_primary_style_bg_color": "#6d388b",
+                "selected_upsells_primary_style_bg_color": "#2d5a3d",
                 "selected_upsells_primary_style_text_color": "#ffffff",
                 "selected_upsells_primary_style_badge_bg": "#121212",
                 "selected_upsells_primary_style_badge_text_color": "#ffffff",
                 "selected_upsells_secondary_style_bg_color": "#e6dcf0",
                 "selected_upsells_secondary_style_text_color": "#121212",
-                "selected_upsells_secondary_style_badge_bg": "#6d388b",
+                "selected_upsells_secondary_style_badge_bg": "#2d5a3d",
                 "selected_upsells_secondary_style_badge_text_color": "#ffffff",
                 "enable_variant_selectors": true,
                 "pickers_label": "",
@@ -312,7 +312,7 @@
                 "upsell_1_type": "checkbox_preselected",
                 "upsell_1_design": "primary",
                 "upsell_1_badge_position": "left",
-                "upsell_1_text_left": "Add [title]",
+                "upsell_1_text_left": "Добави [title]",
                 "upsell_1_text_right": "<strong>[price]</strong>",
                 "upsell_1_badge_text": "",
                 "upsell_2_product": "",
@@ -320,7 +320,7 @@
                 "upsell_2_type": "checkbox_preselected",
                 "upsell_2_design": "primary",
                 "upsell_2_badge_position": "left",
-                "upsell_2_text_left": "Add [title]",
+                "upsell_2_text_left": "Добави [title]",
                 "upsell_2_text_right": "<strong>[price]</strong>",
                 "upsell_2_badge_text": "",
                 "upsell_3_product": "",
@@ -328,7 +328,7 @@
                 "upsell_3_type": "checkbox_preselected",
                 "upsell_3_design": "primary",
                 "upsell_3_badge_position": "left",
-                "upsell_3_text_left": "Add [title]",
+                "upsell_3_text_left": "Добави [title]",
                 "upsell_3_text_right": "<strong>[price]</strong>",
                 "upsell_3_badge_text": "",
                 "option_1_quantity": 1,
@@ -336,9 +336,9 @@
                 "option_1_fixed_amount_off": "0",
                 "option_1_compare_price": "compare_price",
                 "option_1_badge": "",
-                "option_1_label": "<strong>Buy [quantity]</strong>",
+                "option_1_label": "<strong>Купи [quantity] бр.</strong>",
                 "option_1_benefit": "",
-                "option_1_caption": "You save [amount_saved]",
+                "option_1_caption": "Спестяваш [amount_saved]",
                 "option_1_price_text": "<em><strong>[price]</strong></em>",
                 "option_1_compare_price_text": "[compare_price]",
                 "option_1_badge_style": "1",
@@ -352,9 +352,9 @@
                 "option_2_fixed_amount_off": "0",
                 "option_2_compare_price": "compare_price",
                 "option_2_badge": "",
-                "option_2_label": "<strong>Buy [quantity]</strong>",
+                "option_2_label": "<strong>Купи [quantity] бр.</strong>",
                 "option_2_benefit": "",
-                "option_2_caption": "You save [amount_saved]",
+                "option_2_caption": "Спестяваш [amount_saved]",
                 "option_2_price_text": "<em><strong>[price]</strong></em>",
                 "option_2_compare_price_text": "[compare_price]",
                 "option_2_badge_style": "1",
@@ -368,9 +368,9 @@
                 "option_3_fixed_amount_off": "0",
                 "option_3_compare_price": "compare_price",
                 "option_3_badge": "",
-                "option_3_label": "<strong>Buy [quantity]</strong>",
+                "option_3_label": "<strong>Купи [quantity] бр.</strong>",
                 "option_3_benefit": "",
-                "option_3_caption": "You save [amount_saved]",
+                "option_3_caption": "Спестяваш [amount_saved]",
                 "option_3_price_text": "<em><strong>[price]</strong></em>",
                 "option_3_compare_price_text": "[compare_price]",
                 "option_3_badge_style": "1",
@@ -384,9 +384,9 @@
                 "option_4_fixed_amount_off": "0",
                 "option_4_compare_price": "compare_price",
                 "option_4_badge": "",
-                "option_4_label": "<strong>Buy [quantity]</strong>",
+                "option_4_label": "<strong>Купи [quantity] бр.</strong>",
                 "option_4_benefit": "",
-                "option_4_caption": "You save [amount_saved]",
+                "option_4_caption": "Спестяваш [amount_saved]",
                 "option_4_price_text": "<em><strong>[price]</strong></em>",
                 "option_4_compare_price_text": "[compare_price]",
                 "option_4_badge_style": "1",
@@ -431,12 +431,12 @@
               "settings": {
                 "function": "add_to_cart",
                 "display_when": "after_scroll",
-                "button_label": "Add to cart",
+                "button_label": "Добави в кошницата",
                 "enable_custom_btn_color": false,
                 "custom_btn_color": "#dd1d1d",
                 "color_scheme": "background-1",
                 "star_color": "#ffcc00",
-                "stars_label": "(xxxx Reviews)",
+                "stars_label": "([count] отзива)",
                 "picker_type": "combined",
                 "desktop_show_image": true,
                 "desktop_show_title": true,
@@ -480,21 +480,21 @@
                 "border_color": "#b7b7b7",
                 "avatar_alignment": "top",
                 "avatar_corner_radius": 40,
-                "star_color": "#ffcc00",
+                "star_color": "#C4A35A",
                 "stars_translate": 0,
-                "checkmark_color": "#6d388b",
+                "checkmark_color": "#2d5a3d",
                 "checkmark_icon_color": "#ffffff",
                 "slider_type": "slide",
                 "autoplay": false,
                 "autoplay_speed": 5,
                 "display_arrows": false,
                 "display_dots": true,
-                "text_1": "<p>Share positive thoughts and feedback from your customer.</p>",
-                "author_1": "<em>Author</em> [stars]",
-                "text_2": "<p>Share positive thoughts and feedback from your customer.</p>",
-                "author_2": "<em>Author</em> [stars]",
-                "text_3": "<p>Share positive thoughts and feedback from your customer.</p>",
-                "author_3": "<em>Author</em> [stars]",
+                "text_1": "<p>Приемам продукта от 2 месеца и забелязвам реална разлика. Препоръчвам!</p>",
+                "author_1": "<em>Мария К.</em> [stars]",
+                "text_2": "<p>Бърза доставка, качествена опаковка. Ще поръчам отново!</p>",
+                "author_2": "<em>Георги П.</em> [stars]",
+                "text_3": "<p>Най-накрая намерих натурален продукт, който наистина работи.</p>",
+                "author_3": "<em>Ивана С.</em> [stars]",
                 "margin_top": 24,
                 "margin_bottom": 24
               },
@@ -530,11 +530,11 @@
         "pattern_opacity_mode": "low",
         "pattern_opacity_low": 7,
         "pattern_opacity_normal": 80,
-        "enable_breadcrumbs": false,
+        "enable_breadcrumbs": true,
         "breadcrumbs_position": "above_first_block",
         "breadcrumbs_mode": "hybrid",
         "breadcrumbs_show_home": true,
-        "breadcrumbs_home_label": "Home",
+        "breadcrumbs_home_label": "Начало",
         "breadcrumbs_show_product": false,
         "breadcrumbs_separator": "›",
         "breadcrumbs_desktop_text_size": 13,
@@ -608,7 +608,7 @@
             "muted_autoplay": false,
             "btn_color_scheme": "accent-1",
             "btn_animation": false,
-            "title": "",
+            "title": "Описание",
             "title_highlight_color": "#6D388B",
             "heading_size": "h1",
             "text": "<p>Апетитът е по-силен от волята? </p><p><strong>Apetite Control </strong>съчетава 6 активни съставки — горчив портокал, ябълков оцет, силимарин, зелен чай, пиперин и хром — за естествен контрол на апетита и подпомагане на метаболизма.</p><h2>За кого е Apetite Control?</h2><p>За хора, които се борят с преяждане, емоционално хранене или търсят натурална подкрепа за контрол на теглото заедно с балансиран хранителен режим.</p>",
@@ -635,7 +635,7 @@
             "muted_autoplay": false,
             "btn_color_scheme": "accent-1",
             "btn_animation": false,
-            "title": "",
+            "title": "Съставки и дозировка",
             "title_highlight_color": "#6D388B",
             "heading_size": "h1",
             "text": "<h2>Какво съдържа?</h2><ul><li><strong>Екстракт от горчив портокал (Citrus aurantium) — 250 mg</strong> — Съдържа синефрин, който подкрепя термогенезата и контрола на апетита.</li><li><strong>Ябълков оцет (прах) — 214 mg</strong> — Традиционно средство за подкрепа на храносмилането и теглото.</li><li><strong>Зелен чай (Camellia sinensis) — 100 mg</strong> — Богат на катехини и EGCG, подпомага метаболизма.</li><li><strong>Силимарин — 20 mg</strong> — Подкрепя черния дроб, важен орган за метаболизма на мазнини.</li><li><strong>Пиперин — 20 mg</strong> — Повишава усвояемостта на останалите съставки.</li><li><strong>Хромиев пиколинат — 200 µg</strong> — Допринася за поддържане на нормални нива на кръвна захар, намалявайки желанието за сладко.</li></ul><h2>Как се приема?</h2><p>По 1 капсула, 2 пъти дневно, с вода. 60 капсули = 30-дневен курс.</p>",
@@ -662,7 +662,7 @@
             "muted_autoplay": false,
             "btn_color_scheme": "accent-1",
             "btn_animation": false,
-            "title": "",
+            "title": "Начин на прием",
             "title_highlight_color": "#6D388B",
             "heading_size": "h1",
             "text": "<h2>Как се приема?</h2><p>По 1 капсула, 2 пъти дневно, с вода. 60 капсули = 30-дневен курс.</p>",
@@ -724,7 +724,7 @@
         "title_highlight_2_handwritten-color": "#6D388B",
         "title_highlight_2_handwritten-stroke-width": 3,
         "title_highlight_2_handwritten-position": 60,
-        "heading_size": "h1",
+        "heading_size": "h2",
         "custom_desktop_size": 39,
         "custom_mobile_size": 28,
         "text": "",
@@ -988,13 +988,14 @@
         "mobile_padding_bottom": 16,
         "desktop_padding_top": 36,
         "desktop_padding_bottom": 36
-      }
+      },
+      "disabled": true
     },
     "related-products": {
       "type": "related-products",
       "settings": {
         "display_id": false,
-        "title": "You may also like",
+        "title": "Допълни своя курс",
         "title_highlight_1": "solid-color",
         "title_highlight_1_gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
         "title_highlight_1_bg-color": "#f9efff",
@@ -1042,11 +1043,10 @@
         "show_rating": false,
         "enable_quick_add": true,
         "button_funcionality": "add-to-cart",
-        "button_label": "Go to product",
+        "button_label": "Виж продукта",
         "columns_mobile": "2",
         "padding_top": 36,
-        "padding_bottom": 24,
-        "heading": "Допълни своя курс"
+        "padding_bottom": 24
       }
     },
     "eba88da5-80ac-47fc-aa75-997cfe7b2e59": {
@@ -1178,7 +1178,8 @@
         "mobile_arrows_position": "sides",
         "padding_top": 36,
         "padding_bottom": 36
-      }
+      },
+      "disabled": true
     },
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a": {
       "type": "icons-with-content",
@@ -1186,61 +1187,35 @@
         "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-1": {
           "type": "icon",
           "settings": {
-            "icon": "check_circle",
+            "icon": "verified",
             "filled_icon": false,
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
+            "title": "Произведено в ЕС",
+            "text": "<p>Всички продукти са произведени в сертифицирани европейски лаборатории.</p>"
           }
         },
         "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-2": {
           "type": "icon",
           "settings": {
-            "icon": "check_circle",
+            "icon": "local_shipping",
             "filled_icon": false,
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
+            "title": "Безплатна доставка",
+            "text": "<p>За поръчки над 60 лв. доставката е напълно безплатна.</p>"
           }
         },
         "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-3": {
           "type": "icon",
           "settings": {
-            "icon": "check_circle",
+            "icon": "eco",
             "filled_icon": false,
-            "title": "Icon with text",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
-          }
-        },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-heading-1": {
-          "type": "heading",
-          "settings": {
-            "title": "Content heading",
-            "title_highlight_color": "#6d388b",
-            "heading_size": "h1"
-          }
-        },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair icons with content to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_style": "body"
-          }
-        },
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
+            "title": "100% натурални съставки",
+            "text": "<p>Без изкуствени добавки, оцветители или ГМО.</p>"
           }
         }
       },
       "block_order": [
         "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-1",
         "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-2",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-3",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-heading-1",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-text-1",
-        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-button-1"
+        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-3"
       ],
       "settings": {
         "display_id": false,
@@ -1265,14 +1240,16 @@
         "icon_color": "accent-1",
         "icon_heading_size": "h3",
         "icon_text_alignment": "left",
-        "icons_desktop_layout": "1-column",
+        "icons_desktop_layout": "3-columns",
         "icons_mobile_layout": "1-column",
         "desktop_content_alignment": "left",
         "layout": "image_first",
         "mobile_layout": "text_first",
         "hide_content_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 36,
+        "title": "Защо Elviora?",
+        "heading_size": "h2"
       }
     },
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f": {
@@ -1282,27 +1259,27 @@
           "type": "column",
           "settings": {
             "star_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
+            "title": "Страхотен продукт!",
+            "text": "<p>Приемам от месец и вече усещам разлика. Качествени съставки и бърза доставка.</p>",
+            "author": "<em><strong>Мария К.</strong></em>"
           }
         },
         "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-2": {
           "type": "column",
           "settings": {
             "star_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
+            "title": "Препоръчвам!",
+            "text": "<p>Пробвах много марки, но Elviora е с най-добро качество. Ще поръчам отново!</p>",
+            "author": "<em><strong>Георги П.</strong></em>"
           }
         },
         "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-3": {
           "type": "column",
           "settings": {
             "star_rating": 5,
-            "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
-            "author": "<em><strong>Author</strong></em>"
+            "title": "Видими резултати",
+            "text": "<p>Най-накрая намерих натурален продукт, който наистина работи. Много съм доволна.</p>",
+            "author": "<em><strong>Ивана С.</strong></em>"
           }
         }
       },
@@ -1314,7 +1291,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Testimonials",
+        "title": "Какво казват клиентите",
         "title_highlight_1": "solid-color",
         "title_highlight_1_gradient": "linear-gradient(57deg, rgba(249, 119, 255, 1) 8%, rgba(54, 212, 255, 1) 47%, rgba(43, 252, 135, 1) 83%)",
         "title_highlight_1_bg-color": "#f9efff",
@@ -1349,7 +1326,7 @@
         "title_highlight_2_handwritten-color": "#6d388b",
         "title_highlight_2_handwritten-stroke-width": 3,
         "title_highlight_2_handwritten-position": 60,
-        "heading_size": "h1",
+        "heading_size": "h2",
         "custom_desktop_size": 39,
         "custom_mobile_size": 28,
         "text": "",
@@ -1370,7 +1347,7 @@
         "column_alignment": "center",
         "show_stars": true,
         "inactive_stars_style": "solid",
-        "star_color": "#ffcc00",
+        "star_color": "#C4A35A",
         "bg_star_color": "#ececec",
         "show_quotes": true,
         "quotes_color_scheme": "accent-2",
@@ -1407,10 +1384,10 @@
   "order": [
     "main",
     "content_tabs_AnKpVn",
-    "image_with_text_cLgMBH",
-    "related-products",
-    "eba88da5-80ac-47fc-aa75-997cfe7b2e59",
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
-    "55bd100e-3bbd-426c-a5cf-eed7b2a3706f"
+    "related-products",
+    "55bd100e-3bbd-426c-a5cf-eed7b2a3706f",
+    "image_with_text_cLgMBH",
+    "eba88da5-80ac-47fc-aa75-997cfe7b2e59"
   ]
 }
