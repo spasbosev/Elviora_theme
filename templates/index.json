@@ -2242,6 +2242,34 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "featured_collection_bestsellers": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Бестселъри",
+        "title_highlight_1": "solid-color",
+        "title_highlight_1_color": "#2d5a3d",
+        "title_highlight_2": "none",
+        "heading_size": "h1",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "badges": "always",
+        "enable_quick_add": true,
+        "button_funcionality": "quick-add",
+        "button_label": "Добави в кошницата",
+        "image_ratio": "square",
+        "color_scheme": "background-2",
+        "cards_color_scheme": "background-1",
+        "slider_desktop": false,
+        "slider_mobile": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -2252,6 +2280,7 @@
     "rich_text_6PERYj",
     "content_tabs_kwreLG",
     "custom_columns_new_HrHfTi",
+    "featured_collection_bestsellers",
     "custom_liquid_jKkAFr"
   ]
 }
