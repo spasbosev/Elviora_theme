@@ -2270,6 +2270,101 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "testimonials_reviews": {
+      "type": "testimonials",
+      "blocks": {
+        "column_1": {
+          "type": "column",
+          "settings": {
+            "star_rating": 5,
+            "title": "",
+            "text": "<p>\"Пробвах Stress Relief Matrix и за първи път от месеци заспивам спокойно.\"</p>",
+            "author": "Мария, 38"
+          }
+        },
+        "column_2": {
+          "type": "column",
+          "settings": {
+            "star_rating": 5,
+            "title": "",
+            "text": "<p>\"Shilajit MAX е единственият продукт, който реално усетих разлика. Препоръчвам!\"</p>",
+            "author": "Георги, 44"
+          }
+        },
+        "column_3": {
+          "type": "column",
+          "settings": {
+            "star_rating": 5,
+            "title": "",
+            "text": "<p>\"Виждам точно какво приемам и в каква доза. Доверието идва от яснотата на състава.\"</p>",
+            "author": "Десислава, 33"
+          }
+        }
+      },
+      "block_order": [
+        "column_1",
+        "column_2",
+        "column_3"
+      ],
+      "settings": {
+        "title": "Какво казват клиентите",
+        "title_highlight_1": "solid-color",
+        "title_highlight_1_color": "#2d5a3d",
+        "title_highlight_2": "none",
+        "heading_size": "h1",
+        "show_stars": true,
+        "star_color": "#C4A35A",
+        "bg_star_color": "#e0e0e0",
+        "inactive_stars_style": "outlined",
+        "show_quotes": true,
+        "column_alignment": "center",
+        "image_ratio": "circle",
+        "color_scheme": "background-2",
+        "cards_color_scheme": "background-1",
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "slider_mobile": true,
+        "desktop_spacing": 20,
+        "autoplay": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "email_signup_newsletter": {
+      "type": "email-signup-banner",
+      "blocks": {
+        "heading_nl": {
+          "type": "heading",
+          "settings": {
+            "heading": "Запиши се за 10% отстъпка",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_nl": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Получи специалната оферта и полезни съвети за здравето.</p>",
+            "text_style": "body"
+          }
+        },
+        "email_form_nl": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_nl",
+        "paragraph_nl",
+        "email_form_nl"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "image_height": "small",
+        "desktop_content_position": "center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false
+      }
     }
   },
   "order": [
@@ -2281,6 +2376,8 @@
     "content_tabs_kwreLG",
     "custom_columns_new_HrHfTi",
     "featured_collection_bestsellers",
-    "custom_liquid_jKkAFr"
+    "custom_liquid_jKkAFr",
+    "testimonials_reviews",
+    "email_signup_newsletter"
   ]
 }
