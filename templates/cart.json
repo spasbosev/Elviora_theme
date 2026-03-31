@@ -34,7 +34,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "You may also like",
+        "title": "Може да те заинтересува",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -48,7 +48,7 @@
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "enable_quick_add": true,
         "columns_desktop": 4,
         "columns_mobile": "2",
         "padding_top": 100,
