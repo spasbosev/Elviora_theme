@@ -2331,21 +2331,21 @@
         "padding_bottom": 36
       }
     },
-    "email_signup_newsletter": {
-      "type": "email-signup-banner",
+    "newsletter_signup": {
+      "type": "newsletter",
       "blocks": {
         "heading_nl": {
           "type": "heading",
           "settings": {
-            "heading": "Запиши се за 10% отстъпка",
+            "title": "Запиши се за 10% отстъпка",
+            "title_highlight_color": "#2d5a3d",
             "heading_size": "h1"
           }
         },
         "paragraph_nl": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Получи специалната оферта и полезни съвети за здравето.</p>",
-            "text_style": "body"
+            "text": "<p>Получи специалната оферта и полезни съвети за здравето.</p>"
           }
         },
         "email_form_nl": {
@@ -2360,10 +2360,9 @@
       ],
       "settings": {
         "color_scheme": "accent-1",
-        "image_height": "small",
-        "desktop_content_position": "center",
-        "desktop_content_alignment": "center",
-        "show_text_box": false
+        "full_width": true,
+        "padding_top": 52,
+        "padding_bottom": 52
       }
     }
   },
@@ -2378,6 +2377,6 @@
     "featured_collection_bestsellers",
     "custom_liquid_jKkAFr",
     "testimonials_reviews",
-    "email_signup_newsletter"
+    "newsletter_signup"
   ]
 }
